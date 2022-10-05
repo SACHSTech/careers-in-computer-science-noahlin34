@@ -1,2 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8759861&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+
+# Mobile Applications Developer Information
+This document contains information about what a mobile applications developer does and how to become one. 
+
+## Name and Description of the Career
+ Mobile applications developers develop, program, test, and deploy software (applications) for mobile devices, like smartphones, especially those running iOS and Android operating systems. 
+
+ 
