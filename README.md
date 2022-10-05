@@ -20,4 +20,7 @@ The exact activities performed by a mobile applications developer will vary grea
 * Handing deployment/rollout of the app and any subsequent updates
 * Continual development - continiuing to update and maintain code to fix bugs and add new features. This will likely require more debugging and testing.
 
-  
+## Required Education
+![](https://emojipedia-us.s3.amazonaws.com/source/skype/289/graduation-cap_1f393.png)
+Unfortunately, the computer programming industry as a whole is extremely competitive, with a minimum of a bachelor's degree in a relevant field being virtually a blanket requirement for the even most entry level positions. This position is no different, with most employers requiring a minimum of a BSc in computer science or a relevant field. Preference can also be given to people who have recieved additional training, like certificates showing they've completed online courese to prove their profficiency in certain development tools or languages. 
+
