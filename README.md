@@ -24,3 +24,20 @@ The exact activities performed by a mobile applications developer will vary grea
 ![](https://emojipedia-us.s3.amazonaws.com/source/skype/289/graduation-cap_1f393.png)
 Unfortunately, the computer programming industry as a whole is extremely competitive, with a minimum of a bachelor's degree in a relevant field being virtually a blanket requirement for the even most entry level positions. This position is no different, with most employers requiring a minimum of a BSc in computer science or a relevant field. Preference can also be given to people who have recieved additional training, like certificates showing they've completed online courese to prove their profficiency in certain development tools or languages. 
 
+## Required Technical and Non-Technical Skills
+
+Non technical/general skills
+| Skill | Description |
+| --- | --- |
+|Adaptability| Requests may change, or other unforeseen bugs and glitches may require complete changes to the development process or refactoring of code quickly and on the fly|
+|Analytical Skills| Analytical skills aren't just useful for programming to analyze and understand code. A good developer uses analytical skills to assess the needs of a project to develop an effective plan. They must understand what is being asked of them. |
+| Communication/Teamwork | Developers are increasinly having to work in very team oriented environments, often consisting of many members with many different responsibilities. They must be able to ensure that everyone is on the same page and has an understanding of what must be done to move forwards. Any time an issue comes up, they must be able to communicate with the rest of the team to fix it. |
+|Problem Solving | Because of how many different stages and how complex the development process is, a good developer has problem solving skills to be able to analyze an issue and come up with a good sollution. 
+
+Technical Skills
+
+| Skill | Description |
+| --- | --- | 
+|Backend Development | Lots of work of a mobile developer will be on the back end side. This includes managing databases, ensuring apps interface with servers and APIs properly and efficiently, and ensuring security. 
+| UI Desingn/Front End Development | There will also be cases where a mobile developer is expected to possess knowledge of UI design and front end development to make a more cohesive application. 
+| Agile Development | Agile development is a development methodology focusing on using sprints (usually 1-2 week periods of work) and and seaparating larger tasks into smaller pieces. This is becoming an industry standard. 
