@@ -26,7 +26,7 @@ Unfortunately, the computer programming industry as a whole is extremely competi
 
 ## Required Technical and Non-Technical Skills
 
-Non technical/general skills
+### Non technical/general skills
 | Skill | Description |
 | --- | --- |
 |Adaptability| Requests may change, or other unforeseen bugs and glitches may require complete changes to the development process or refactoring of code quickly and on the fly|
@@ -34,10 +34,34 @@ Non technical/general skills
 | Communication/Teamwork | Developers are increasinly having to work in very team oriented environments, often consisting of many members with many different responsibilities. They must be able to ensure that everyone is on the same page and has an understanding of what must be done to move forwards. Any time an issue comes up, they must be able to communicate with the rest of the team to fix it. |
 |Problem Solving | Because of how many different stages and how complex the development process is, a good developer has problem solving skills to be able to analyze an issue and come up with a good sollution. 
 
-Technical Skills
+### Technical Skills
 
 | Skill | Description |
 | --- | --- | 
 |Backend Development | Lots of work of a mobile developer will be on the back end side. This includes managing databases, ensuring apps interface with servers and APIs properly and efficiently, and ensuring security. 
 | UI Desingn/Front End Development | There will also be cases where a mobile developer is expected to possess knowledge of UI design and front end development to make a more cohesive application. 
 | Agile Development | Agile development is a development methodology focusing on using sprints (usually 1-2 week periods of work) and and seaparating larger tasks into smaller pieces. This is becoming an industry standard. 
+
+## Examples of an Entry Level, Average, and High Level jobs with salary Range
+
+### Entry Level
+![](https://replit.com/@NoahLin/careers-in-computer-science-noahlin34#Screen%20Shot%202022-10-06%20at%209.51.19%20AM.png)
+
+[Link to the job posting on Glassdoor](https://www.glassdoor.ca/job-listing/mobile-developer-entry-level-konrad-group-JV_IC2281069_KO0,28_KE29,41.htm?jl=1008053701088&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+Job description provided by company:
+>Write maintainable, testable, and performant software in collaboration with our world class team. Participate in code review and perform extensive testing to ensure we deliver high quality software. Research new technology and tools and share those findings with the team. Communicate clearly and effectively with all members of our team.
+
+* Salary: Not provided by employer, est. 67k-91k
+* Location: Toronto
+* Additional Skills: REST APIs, ReactiveX Framework
+  
+### Mid Level
+
+![](https://replit.com/@NoahLin/careers-in-computer-science-noahlin34#Screen%20Shot%202022-10-06%20at%2010.05.14%20AM.png)
+
+[Link to the job posting on Indeed](https://ca.indeed.com/viewjob?jk=0ec01300d4151b12&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+Job 
+
+
