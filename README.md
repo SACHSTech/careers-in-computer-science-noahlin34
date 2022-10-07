@@ -84,4 +84,19 @@ Job description provided by the company:
 * Additional Skills: 6+ yrs experience, leadership, experience with niche mobile frameworks like flutter & dart, kotlin & java.
 
 
+## University Paths for Related Programs
+
+The University of Toronto offers a very competitive and highly desired computer science program, allowing graduates to recieve a BSc. 
+
+### Entrance Requirements
+The program is highly competitive requiring a minimum of an average in the low 90s, but acceptance may require a significantly higher average. The only prerequisite courses are ENG4U and MCV4U. 
+
+### First Year Courses
+Typically, if a student wanted to persue a career in computer science, they would have to take CSCA08 - Introduction to Computer Science I, and CSCA67 - Discrete Mathematics. CSCA08 is designed to introduce students to the discipline, and it is built assuming students have no prior exposure to computer science. CSC67 is meant to provide relevant math skills students will need for their more senior years of computer science. 
+
+### Length of Time
+Typically, it will take 4 years to complete the undergraduate program and earn a Bachelor of Science. 
+
+## Valuable Learning Opporitunities
+With how competitive the field is becoming, it is not uncommon for employers to want a candidate who has educated themsleves in the field outside of formal schooling. 
 
