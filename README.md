@@ -100,3 +100,25 @@ Typically, it will take 4 years to complete the undergraduate program and earn a
 ## Valuable Learning Opporitunities
 With how competitive the field is becoming, it is not uncommon for employers to want a candidate who has educated themsleves in the field outside of formal schooling. 
 
+One thing that is particularly valued by many employers is online certificates. There are various online courses that, when completed, will provide certification to prove that the candidate is profficient in using the given tool or skill. Many large companies like [Google](https://grow.google/certificates/#?modal_active=none) and [Microsoft](https://learn.microsoft.com/en-us/certifications/) have online courses to complete. These certificates are recognized by the industry and can improve employability. 
+
+Outside of this, personal projects can also make a person appear as a stronger candidate. Having a large portfolio of online coding projects in a personal website or GitHub repository can help prove the person's drive and passion for computer science, as well as being a display of skill. 
+
+## Works Cited
+
+Indeed Editorial Team. “Mobile App Developer Skills:       
+Definition and Examples.” Indeed, 15 Sept. 2022, https://www.indeed.com/career-advice/resumes-cover-letters/mobile-app-developer-skills. 
+
+Indeed Editorial Team. “What Is a Mobile App Developer? (With Key Duties and Salary).” Indeed, 2 Apr. 2022, https://www.indeed.com/career-advice/finding-a-job/what-is-mobile-app-developer. 
+
+Konrad. “Konrad Group Mobile Developer (Entry Level) Job in Toronto - Glassdoor.” Glassdoor, 2022, https://www.glassdoor.ca/job-listing/mobile-developer-entry-level-konrad-group-JV_IC2281069_KO0,28_KE29,41.htm?jl=1008053701088. 
+
+“Salary: Mobile Application Developer (October, 2022) | Glassdoor.” Glassdoor, 10 Sept. 2022, https://www.glassdoor.ca/Salaries/canada-mobile-application-developer-salary-SRCH_IL.0,6_IN3_KO7,35.htm.
+
+“Skpe Graduation Cap.” Emojipedia, Zedge, https://emojipedia.org/graduation-cap/. Accessed 8 Oct. 2022. 
+
+Supremesoft Corporation. “Mobile Application Developer.” Indeed, 2022, https://ca.indeed.com/viewjob?jk=0ec01300d4151b12&amp;utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic. 
+
+TC Transcontinental. “Transcontinental Inc.. Mobile Application Developer Job in Mississauga ...” Glassdoor, 2022, https://www.glassdoor.ca/job-listing/mobile-application-developer-tc-transcontinental-JV_IC2280741_KO0,28_KE29,48.htm?jl=1008180183041. 
+
+Tierney. “Person Using a Laptop Computer from Above.” Adobe Stock, Adobe, https://stock.adobe.com/ca/search?k=computer&amp;asset_id=352977326. Accessed 8 Oct. 2022. 
