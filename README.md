@@ -21,7 +21,7 @@ The exact activities performed by a mobile applications developer will vary grea
 * Continual development - continiuing to update and maintain code to fix bugs and add new features. This will likely require more debugging and testing.
 
 ## Required Education
-![](https://emojipedia-us.s3.amazonaws.com/source/skype/289/graduation-cap_1f393.png)
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/graduation-cap_1f393.png" width="100" height="100">
 Unfortunately, the computer programming industry as a whole is extremely competitive, with a minimum of a bachelor's degree in a relevant field being virtually a blanket requirement for the even most entry level positions. This position is no different, with most employers requiring a minimum of a BSc in computer science or a relevant field. Preference can also be given to people who have recieved additional training, like certificates showing they've completed online courese to prove their profficiency in certain development tools or languages. 
 
 ## Required Technical and Non-Technical Skills
@@ -58,7 +58,7 @@ Job description provided by company:
   
 ### Mid Level
 
-![](/mid.png)
+<img src="/mid.png" height="300">
 
 [Link to the job posting on Indeed](https://ca.indeed.com/viewjob?jk=0ec01300d4151b12&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
@@ -105,6 +105,12 @@ One thing that is particularly valued by many employers is online certificates. 
 Outside of this, personal projects can also make a person appear as a stronger candidate. Having a large portfolio of online coding projects in a personal website or GitHub repository can help prove the person's drive and passion for computer science, as well as being a display of skill. 
 
 ## Works Cited
+
+“Computer Science (HBSc) - University of Toronto - St. George.” StudyinCanada, SchoolFinder, 23 July 2021, https://www.studyincanada.com/Programs/65534/Computer-Science-(HBSc). 
+
+“Computer Science.” University of Toronto Faculty of Arts &amp; Science Academic Calendar, University of Toronto Faculty of Arts &amp; Science, 2022, https://artsci.calendar.utoronto.ca/section/Computer-Science. 
+
+“Computer Science.” University of Toronto Undergraduate Programs, University of Toronto, 2022, https://future.utoronto.ca/undergraduate-programs/computer-science/. 
 
 Indeed Editorial Team. “Mobile App Developer Skills:       
 Definition and Examples.” Indeed, 15 Sept. 2022, https://www.indeed.com/career-advice/resumes-cover-letters/mobile-app-developer-skills. 
